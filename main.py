@@ -1,5 +1,5 @@
 # main.py
-# Entry point for DNS Penetration Pro Toolkit
+
 
 from modules import dns_enumeration, zone_transfer, subdomain_bruteforce, reverse_lookup
 import json, csv, logging
